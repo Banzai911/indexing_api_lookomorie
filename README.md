@@ -1,5 +1,4 @@
-Инструкция https://www.qmedia.by/blog/kak_uskorit_indeksaciyu_bolshogo_kolichestva_stranic_sajta.html
-Все урлы отправлены на индексацию
+
 
 
 
